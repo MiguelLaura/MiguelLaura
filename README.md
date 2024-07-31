@@ -2,11 +2,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJiMm5rcDB1N2cybXJzcm5uYTU5cXFpaHZsdjgwbnlrdHl5aDV1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" width="150"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/laura-miguel-b43513208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
-**MiguelLaura/MiguelLaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
