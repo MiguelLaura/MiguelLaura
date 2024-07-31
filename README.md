@@ -8,6 +8,15 @@
   </a>
 </div>
 
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelLaura&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  Bonjour !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
