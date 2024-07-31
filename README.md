@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R1bXA2YzRlcDgyMGVkaHVkbzcybXczZ2R2d3pqMzE4ajE3MjV3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJiMm5rcDB1N2cybXJzcm5uYTU5cXFpaHZsdjgwbnlrdHl5aDV1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" width="100"/>
 </div>
 
 <!--
