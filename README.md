@@ -19,13 +19,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a computer science engineer from France :fr:.
+I am a computer science engineer from France :fr:
 
-- :chart_with_upwards_trend: Special interest in data.
+- :chart_with_upwards_trend: Special interest in data
 
-- :seedling: Exploring new technologies when I can.
+- :seedling: Exploring new technologies when I have time
 
-- :star2: In my free time, I read a lot :green_book: and can't stop listening to musicals :musical_note::performing_arts:.
+- :star2: In my free time, I read a lot :green_book: and can't stop listening to musicals :musical_note::performing_arts:
 
 ---
 
