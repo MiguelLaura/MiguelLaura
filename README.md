@@ -8,9 +8,13 @@
   </a>
 </div>
 
+<!--
+
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelLaura&style=flat-square&color=blue" alt=""/>
 </div>
+
+-->
 
 <h1>
   Bonjour !
@@ -25,9 +29,11 @@ I am a computer science engineer from France :fr:
 
 - :seedling: Exploring new technologies when I have time
 
-- :star2: In my free time, I read a lot :green_book: and can't stop listening to musicals :musical_note::performing_arts:
+<!-- - :star2: In my free time, I read a lot :green_book: and can't stop listening to musicals :musical_note::performing_arts: -->
 
 ---
+
+<!--
 
 ### :hammer_and_wrench: Languages and Tools encountered in projects : 
 
@@ -53,6 +59,8 @@ Not an expert at all, I'm still learning most of them :woman_teacher:
 </div>
 
 ---
+
+-->
 
 ### :fire: My Stats :
 
